@@ -20,7 +20,9 @@ Bu proje, **Otizm Spektrum Bozukluğu (ASD)** tanısını daha doğru ve erken b
 - **Plotly**
 
 ## Veri Seti
-Proje, ASD tahmini için özel olarak hazırlanmış bir veri seti kullanır. Veri setindeki temel sütunlar şunlardır:
+Proje, ASD tahmini için özel olarak hazırlanmış bir veri seti kullanır. Veri setindeki temel sütunlar şunlardır:<img width="773" alt="Ekran Resmi 2025-01-07 00 38 53" src="https://github.com/user-attachments/assets/5687021f-9589-492d-9be4-f644bcccb264" />
+<img width="714" alt="Ekran Resmi 2025-01-07 00 39 00" src="https://github.com/user-attachments/assets/79897650-0983-4ab5-8e99-b50be121e13a" />
+
 - **Age (Yaş):** Bireyin yaşı.
 - **Gender (Cinsiyet):** Bireyin cinsiyeti.
 - **Class/ASD:** ASD tanısı (0: Hayır, 1: Evet).
@@ -32,3 +34,4 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 1. **Gerekli Kütüphaneleri Kurun:**
    ```bash
    pip install -r requirements.txt
+   
